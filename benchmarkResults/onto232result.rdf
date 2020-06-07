@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:map='http://www.atl.external.lmco.com/projects/ontology/ResultsOntology.n3#'>
+  <map:output rdf:about=''>
+    <map:intutA rdf:resource="http://oaei.ontologymatching.org/2006/benchmarks/101/onto.rdf">
+    <map:inputB rdf:resource="http://oaei.ontologymatching.org/2006/benchmarks/232/onto.rdf">
+    <map:precision>0.9381443298969072</map:precision>
+    <map:recall>1.0</map:recall>
+    <fallout>0.061855670103092786</fallout>
+    <map:fMeasure>0.9680851063829787</map:fMeasure>
+    <map:oMeasure>0.9340659340659341</map:oMeasure>
+    <result>1.065934065934066</result>
+  </map:output>
+</rdf:RDF>
